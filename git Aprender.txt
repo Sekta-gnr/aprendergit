@@ -19,4 +19,5 @@ agregar al controlador de respositorios uno o mas archivos (para agregar todos l
 git commit -m <<commentCommit>>
 confirma la adicion de los ficheros agregados
 
-eliminar esto
+git checkout <<.>>
+eliminar los cambios realizados (prueba)
