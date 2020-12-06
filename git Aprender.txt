@@ -20,4 +20,4 @@ git commit -m <<commentCommit>>
 confirma la adicion de los ficheros agregados
 
 git checkout <<.>>
-eliminar los cambios realizados (prueba)
+eliminar los cambios realizados en archivos que no se ha hecho el commit
