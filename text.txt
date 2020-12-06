@@ -1,0 +1,6 @@
+    var a = document.getElementsByClassName("tp-backdrop");
+    a[0].remove();
+    var b = document.getElementsByTagName("body");  
+    b[0].classList.remove("tp-modal-open");
+    var c = document.getElementsByClassName("tp-modal");
+    c[0].remove()
