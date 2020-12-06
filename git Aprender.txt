@@ -1,0 +1,22 @@
+git Aprender
+
+Git configuracion de entorno
+git config --global user.name <<userName>>
+git config --global user.email <<userEmail>>
+git configuracion --global -l (List de los valores de configuracion seteados)
+
+git pasos iniciales 
+
+git init
+crea la carpeta .git y esta lista para empezar a usar git en nuestro repositorio
+
+git status
+nos muestra el estado de los fichero a los cuales se les estan haciendo cambios
+
+git add (<<fileName>> O <<.>>)
+agregar al controlador de respositorios uno o mas archivos (para agregar todos los archivos con .)
+
+git commit -m <<commentCommit>>
+confirma la adicion de los ficheros agregados
+
+eliminar esto
