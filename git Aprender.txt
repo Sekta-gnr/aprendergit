@@ -75,5 +75,9 @@ evalua y descarga los commit que se han realizado sobre el repositorio por parte
 
 y una segunda rama?
 
+<<<<<<< HEAD
 
 que pasa si hago un commit y psush pero no he hecho un pull
+=======
+vamos a hacer una prueba del mismo codigo a ver que pasa
+>>>>>>> efae9b5506656d232d067f1890150e0bbbd004a0
