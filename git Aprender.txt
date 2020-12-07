@@ -48,3 +48,18 @@ regresa el stage y archivos actual al stage y archivos de idcommit
 
 git reflog
 lista todos los commit que se hicieron sin importar los reset realizados
+
+git branch <<NewBranch>>
+crea una nueva rama de nuestro proyecto
+
+git checkout <<branch>>
+permite el cambio entre ramas
+
+
+github
+
+git remote add <<NameRepository>> <<urlRepository>>
+conecta con un repositorio remoto
+
+git push <<NameRepository>><<nameBranch>>
+sube la rama selecionada a el repositorio remoto   
