@@ -66,3 +66,9 @@ sube la rama selecionada a el repositorio remoto
 
 
 test cambio github
+
+git clone <<NameRepository>>
+clona todos los archivos de un repositorio remoto a nuestra maquina
+
+git pull <<NameRepository>><<nameBranch>>
+evalua y descarga los commit que se han realizado sobre el repositorio por parte de otros usuarios
