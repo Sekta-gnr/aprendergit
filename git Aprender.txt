@@ -31,3 +31,20 @@ lista todos los commit reliazados
 git config --global alias.<<nameOfAlias>> <<comandWish>>
 se coloca un alias a un comando de git especifico para simplificar el llamado en el bash
 
+git commit --amend -m <<NewComment>>
+modifica el comentario del ultimo commit realizado
+
+git mv <<oldName>><<NewName>>
+modifica el nombre de un archivo 
+
+git rm <<nameFile>>
+elimina un archivo
+
+git reset --soft <<idCommit>>
+regresa el stage actual al stage de idcommit (no regresa archivos)
+
+git reset --hard <<idCommit>>
+regresa el stage y archivos actual al stage y archivos de idcommit 
+
+git reflog
+lista todos los commit que se hicieron sin importar los reset realizados
