@@ -74,3 +74,6 @@ git pull <<NameRepository>><<nameBranch>>
 evalua y descarga los commit que se han realizado sobre el repositorio por parte de otros usuarios
 
 y una segunda rama?
+
+
+que pasa si hago un commit y psush pero no he hecho un pull
