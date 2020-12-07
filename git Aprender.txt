@@ -72,3 +72,5 @@ clona todos los archivos de un repositorio remoto a nuestra maquina
 
 git pull <<NameRepository>><<nameBranch>>
 evalua y descarga los commit que se han realizado sobre el repositorio por parte de otros usuarios
+
+y una segunda rama?
