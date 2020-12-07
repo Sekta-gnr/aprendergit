@@ -16,6 +16,9 @@ nos muestra el estado de los fichero a los cuales se les estan haciendo cambios
 git add (<<fileName>> O <<.>>)
 agregar al controlador de respositorios uno o mas archivos (para agregar todos los archivos con .)
 
+git reset <<fileNameToRemove>>
+elimina del stage los archivos que no vamos a hacer el control de versiones
+
 git commit -m <<commentCommit>>
 confirma la adicion de los ficheros agregados
 
@@ -23,4 +26,8 @@ git checkout <<.>>
 eliminar los cambios realizados en archivos que no se ha hecho el commit
 
 git log
-lista todos los commit reliazados
+lista todos los commit reliazados   
+
+git config --global alias.<<nameOfAlias>> <<comandWish>>
+se coloca un alias a un comando de git especifico para simplificar el llamado en el bash
+
