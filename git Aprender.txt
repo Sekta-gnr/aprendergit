@@ -21,3 +21,6 @@ confirma la adicion de los ficheros agregados
 
 git checkout <<.>>
 eliminar los cambios realizados en archivos que no se ha hecho el commit
+
+git log
+lista todos los commit reliazados
