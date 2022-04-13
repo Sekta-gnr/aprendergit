@@ -55,6 +55,12 @@ crea una nueva rama de nuestro proyecto
 git checkout <<branch>>
 permite el cambio entre ramas
 
+git diff
+ver los cambios que se han relizado con respecto a la ultima version de nuestro archivo(head)
+**diff (para archivo que no estan en el stage)
+**dif --staged (para ver los cambios con respecto a los archivos que se encuentran el stage)
+
+
 
 github
 
